@@ -359,11 +359,11 @@
             </section>
         </main>
 
-        <footer>
+        <!--<footer>
             <p class="footer-text">
-                Fresh, local ingredients · Seasonal menu
+                
             </p>
-        </footer>
+        </footer>-->
     </div>
 </body>
 </html>
